@@ -1,13 +1,13 @@
-package pt.ies.ex23b;
+package pt.ies.cristiano.movieswebcontent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ex23cApplication {
+public class MoviesWebContentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ex23cApplication.class, args);
+		SpringApplication.run(MoviesWebContentApplication.class, args);
 	}
 
 }

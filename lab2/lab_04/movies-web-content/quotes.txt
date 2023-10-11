@@ -1,0 +1,125 @@
+    "Here's looking at you, kid." ; Casablanca
+    "May the Force be with you." ; Star Wars
+    "I'll be back." ; The Terminator
+    "Life is like a box of chocolates." ; Forrest Gump
+    "You can't handle the truth!" ; A Few Good Men
+    "I feel the need... the need for speed." ; Top Gun
+    "There's no place like home." ; The Wizard of Oz
+    "I'll have what she's having." ; When Harry Met Sally
+    "Keep your friends close, but your enemies closer." ; The Godfather Part II
+    "To infinity and beyond!" ; Toy Story
+    "You talking to me?" ; Taxi Driver
+    "I see dead people." ; The Sixth Sense
+    "Hasta la vista, baby." ; Terminator 2: Judgment Day
+    "Why so serious?" ; The Dark Knight
+    "You can't change the past." ; The Curious Case of Benjamin Button
+    "There's no crying in baseball!" ; A League of Their Own
+    "Houston, we have a problem." ; Apollo 13
+    "You had me at hello." ; Jerry Maguire
+    "I'm the king of the world!" ; Titanic
+    "I'm king of the world!" ; Titanic (Note: Slight variation from the previous quote)
+    "I love the smell of napalm in the morning." ; Apocalypse Now
+    "I'm just a girl, standing in front of a boy, asking him to love her." ; Notting Hill
+    "The stuff that dreams are made of." ; The Maltese Falcon
+    "Frankly, my dear, I don't give a damn." ; Gone with the Wind
+    "E.T. phone home." ; E.T. the Extra-Terrestrial
+    "Go ahead, make my day." ; Sudden Impact
+    "There's no spoon." ; The Matrix
+    "I'll get you, my pretty, and your little dog too!" ; The Wizard of Oz
+    "Here's Johnny!" ; The Shining
+    "Love means never having to say you're sorry." ; Love Story
+    "You had me at 'Hello.'" ; Jerry Maguire
+    "The greatest trick the Devil ever pulled was convincing the world he didn't exist." ; The Usual Suspects
+    "Mama always said life was like a box of chocolates." ; Forrest Gump
+    "I am your father." ; The Empire Strikes Back
+    "Nobody puts Baby in a corner." ; Dirty Dancing
+    "I'm gonna make him an offer he can't refuse." ; The Godfather
+    "I could've been a contender." ; On the Waterfront
+    "Here's Johnny!" ; The Shining
+    "You talkin' to me?" ; Taxi Driver
+    "Keep your friends close, but your enemies closer." ; The Godfather Part II
+    "I see dead people." ; The Sixth Sense
+    "There's no place like home." ; The Wizard of Oz
+    "I feel the need—the need for speed." ; Top Gun
+    "May the Force be with you." ; Star Wars
+    "You can't handle the truth!" ; A Few Good Men
+    "I'll be back." ; The Terminator
+    "Why so serious?" ; The Dark Knight
+    "You can't change the past." ; The Curious Case of Benjamin Button
+    "Houston, we have a problem." ; Apollo 13
+    "There's no crying in baseball!" ; A League of Their Own
+    "You had me at hello." ; Jerry Maguire
+    "I'm the king of the world!" ; Titanic
+    "I see dead people." ; The Sixth Sense
+    "I'll have what she's having." ; When Harry Met Sally
+    "You talking to me?" ; Taxi Driver
+    "I feel the need... the need for speed." ; Top Gun
+    "There's no place like home." ; The Wizard of Oz
+    "I'll have what she's having." ; When Harry Met Sally
+    "Keep your friends close, but your enemies closer." ; The Godfather Part II
+    "May the Force be with you." ; Star Wars
+    "You can't handle the truth!" ; A Few Good Men
+    "I'll be back." ; The Terminator
+    "Life is like a box of chocolates." ; Forrest Gump
+    "Why so serious?" ; The Dark Knight
+    "You can't change the past." ; The Curious Case of Benjamin Button
+    "There's no crying in baseball!" ; A League of Their Own
+    "Houston, we have a problem." ; Apollo 13
+    "You had me at hello." ; Jerry Maguire
+    "I'm the king of the world!" ; Titanic
+    "I'm king of the world!" ; Titanic (Note: Slight variation from the previous quote)
+    "I love the smell of napalm in the morning." ; Apocalypse Now
+    "I'm just a girl, standing in front of a boy, asking him to love her." ; Notting Hill
+    "The stuff that dreams are made of." ; The Maltese Falcon
+    "Frankly, my dear, I don't give a damn." ; Gone with the Wind
+    "E.T. phone home." ; E.T. the Extra-Terrestrial
+    "Go ahead, make my day." ; Sudden Impact
+    "There's no spoon." ; The Matrix
+    "I'll get you, my pretty, and your little dog too!" ; The Wizard of Oz
+    "Here's Johnny!" ; The Shining
+    "Love means never having to say you're sorry." ; Love Story
+    "You had me at 'Hello.'" ; Jerry Maguire
+    "The greatest trick the Devil ever pulled was convincing the world he didn't exist." ; The Usual Suspects
+    "Mama always said life was like a box of chocolates." ; Forrest Gump
+    "I am your father." ; The Empire Strikes Back
+    "Nobody puts Baby in a corner." ; Dirty Dancing
+    "I'm gonna make him an offer he can't refuse." ; The Godfather
+    "I could've been a contender." ; On the Waterfront
+    "Here's Johnny!" ; The Shining
+    "You talkin' to me?" ; Taxi Driver
+    "Keep your friends close, but your enemies closer." ; The Godfather Part II
+    "I see dead people." ; The Sixth Sense
+    "There's no place like home." ; The Wizard of Oz
+    "I feel the need—the need for speed." ; Top Gun
+    "May the Force be with you." ; Star Wars
+    "You can't handle the truth!" ; A Few Good Men
+    "I'll be back." ; The Terminator
+    "Why so serious?" ; The Dark Knight
+    "You can't change the past." ; The Curious Case of Benjamin Button
+    "Houston, we have a problem." ; Apollo 13
+    "There's no crying in baseball!" ; A League of Their Own
+    "You had me at hello." ; Jerry Maguire
+    "I'm the king of the world!" ; Titanic
+    "I see dead people." ; The Sixth Sense
+    "I'll have what she's having." ; When Harry Met Sally
+    "You talking to me?" ; Taxi Driver
+    "I feel the need... the need for speed." ; Top Gun
+    "There's no place like home." ; The Wizard of Oz
+    "I'll have what she's having." ; When Harry Met Sally
+    "Keep your friends close, but your enemies closer." ; The Godfather Part II
+    "May the Force be with you." ; Star Wars
+    "You can't handle the truth!" ; A Few Good Men
+    "I'll be back." ; The Terminator
+    "Life is like a box of chocolates." ; Forrest Gump
+    "Why so serious?" ; The Dark Knight
+    "You can't change the past." ; The Curious Case of Benjamin Button
+    "There's no crying in baseball!" ; A League of Their Own
+    "Houston, we have a problem." ; Apollo 13
+    "You had me at hello." ; Jerry Maguire
+    "I'm the king of the world!" ; Titanic
+    "I'm king of the world!" ; Titanic (Note: Slight variation from the previous quote)
+    "I love the smell of napalm in the morning." ; Apocalypse Now
+    "I'm just a girl, standing in front of a boy, asking him to love her." ; Notting Hill
+    "The stuff that dreams are made of." ; The Maltese Falcon
+    "Frankly, my dear, I don't give a damn." ; Gone with the Wind
+    "E.T. phone home." ; E.T. the Extra-Terrestrial
